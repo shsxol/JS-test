@@ -1,2 +1,3 @@
 # JS-test
 hi
+hi!
